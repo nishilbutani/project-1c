@@ -1,0 +1,20 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/shiva/Desktop/project 1/SmartCricketApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14010416666666667" />
+        <entry key="..\:/Users/shiva/Desktop/project 1/SmartCricketApp/app/src/main/res/layout/activity_coach_portal.xml" value="0.1" />
+        <entry key="..\:/Users/shiva/Desktop/project 1/SmartCricketApp/app/src/main/res/layout/activity_coach_progresssion_reports.xml" value="0.13360507246376813" />
+        <entry key="..\:/Users/shiva/Desktop/project 1/SmartCricketApp/app/src/main/res/layout/activity_coach_training_videos.xml" value="0.1" />
+        <entry key="..\:/Users/shiva/Desktop/project 1/SmartCricketApp/app/src/main/res/layout/activity_feedback_page.xml" value="0.1" />
+        <entry key="..\:/Users/shiva/Desktop/project 1/SmartCricketApp/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/shiva/Desktop/project 1/SmartCricketApp/app/src/main/res/layout/activity_number_of_student_profiles.xml" value="0.1" />
+        <entry key="..\:/Users/shiva/Desktop/project 1/SmartCricketApp/app/src/main/res/layout/activity_payment_page.xml" value="0.1" />
+        <entry key="..\:/Users/shiva/Desktop/project 1/SmartCricketApp/app/src/main/res/layout/activity_profile.xml" value="0.1" />
+        <entry key="..\:/Users/shiva/Desktop/project 1/SmartCricketApp/app/src/main/res/layout/activity_student_portal.xml" value="0.1" />
+        <entry key="..\:/Users/shiva/Desktop/project 1/SmartCricketApp/app/src/main/res/layout/activity_student_profile.xml" value="0.1" />
+        <entry key="..\:/Users/shiva/Desktop/project 1/SmartCricketApp/app/src/main/res/layout/activity_training_videos.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+</application>
